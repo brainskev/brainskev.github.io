@@ -16,6 +16,7 @@ This microverse project is the first step to building my personal portfolio proj
 
 👤 **Kelvin Kaviku**
 
+- portfolio: (https://brainskev.github.io)
 - GitHub: [@githubhandle](https://github.com/brainskev)
 - Twitter: [@twitterhandle](https://twitter.com/kevin_ngotho?s=09)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kelvin-kaviku-5178001a6)
